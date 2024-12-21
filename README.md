@@ -1,5 +1,4 @@
-## Hi there 👋
-
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 <!--
 **Suajay/Suajay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
