@@ -11,14 +11,24 @@
 
 # 💻 Tech Stack
 
-### **Frontend**:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+### **Programming Languages**:
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)  
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus)  
+![Python](https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python)  
+![Java](https://img.shields.io/badge/-Java-F7DF1E?style=for-the-badge&logo=java)
 
-### **Backend**:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-
-### **Mobile App**:
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Java](https://img.shields.io/badge/java-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=white)
+### **Tools & Frameworks**:
+![Next JS](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js)  
+![Node JS](https://img.shields.io/badge/-Node.js-6DA55F?style=for-the-badge&logo=node.js)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django)  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)  
+![Apache](https://img.shields.io/badge/-Apache-D42029?style=for-the-badge&logo=apache)  
+![AWS](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&logo=amazon-aws)  
+![Git](https://img.shields.io/badge/-Git-F05033?style=for-the-badge&logo=git)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter)  
+![Firebase](https://img.shields.io/badge/-Firebase-039BE5?style=for-the-badge&logo=firebase)
 
 
 # 📊 GitHub Stats:
