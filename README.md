@@ -8,7 +8,6 @@
 <!--## 🏆 GitHub Trophies-->
 <!--![](https://github-profile-trophy.vercel.app/?username=suajay&theme=radical&no-frame=false&no-bg=true&margin-w=4) -->
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/suajay/langs)](https://githubtrends.io)
 
 # 💻 Tech Stack
 
