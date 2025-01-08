@@ -2,6 +2,7 @@
 👋 Hi, I'm Suraj Mohammed!<br><br>💻 Passionate Flutter Developer, building cross-platform apps with beautiful UIs.<br>🌱 Continuously learning and exploring new technologies in mobile development.<br>🚀 Focused on clean architecture, performance, and intuitive user experiences.<br>🛠 Skilled in Dart, Firebase, and integrating 3rd-party APIs.<br>👀 Currently working on AI girlfriend, an app that provides you with a great girlfriend experience.<br>📫 Reach me at suajay2100@gmail.com<br>
 
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/suraj-mohammed-bb62b025a) 
 
