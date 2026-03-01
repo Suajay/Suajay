@@ -1,5 +1,21 @@
-# 💫 About Me:
-👋 Hi, I'm Suraj Mohammed!<br><br>💻 Passionate Flutter Developer, building cross-platform apps with beautiful UIs.<br>🌱 Continuously learning and exploring new technologies in mobile development.<br>🚀 Focused on clean architecture, performance, and intuitive user experiences.<br>🛠 Skilled in Dart, Firebase, and integrating 3rd-party APIs.<br>👀 Currently working on AI girlfriend, an app that provides you with a great girlfriend experience.<br>📫 Reach me at suajay2100@gmail.com<br>
+# Hi there, I'm Suraj Mohammed 👨🏽‍💻⚡
+Full-Stack Developer | Mobile Engineer | Backend Builder | AI Explorer  
+
+I build dependable full-stack solutions for web and mobile applications — with a growing focus on scalable backend systems and intelligent software. I care about clean architecture, performance, maintainability, and solving real-world problems with technology.
+
+---
+
+## 🔹 What I'm Working On
+
+🚀 Building scalable web applications using React, Node.js, and Spring Boot  
+📱 Developing high-performance cross-platform apps with Flutter  
+🧠 Expanding my knowledge in AI, Machine Learning, and system design  
+🤝 Open to collaborating on React • Flutter • Java (Spring Boot) • Node.js projects  
+🎬 Outside tech — I enjoy movies, tech discussions, and continuous learning  
+
+---
+
+📫 Email me → suajay2100@gmail.com
 
 
 
