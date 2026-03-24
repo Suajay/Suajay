@@ -1,4 +1,4 @@
-#Hi there, I'm Suraj Mohammed 👨🏽‍💻
+# Hi there, I'm Suraj Mohammed 👨🏽‍💻
 Full-Stack Developer | Mobile | Backend dev | AI & ML 
 
 I build dependable full-stack solutions for web and mobile applications, with a growing focus on scalable backend systems and intelligent software. I care about clean architecture, performance, maintainability, and solving real-world problems with technology.
