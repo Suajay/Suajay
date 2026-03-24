@@ -1,4 +1,4 @@
-# Hi there, I'm Suraj Mohammed 👨🏽‍💻
+Hi there, I'm Suraj Mohammed 👨🏽‍💻
 Full-Stack Developer | Mobile | Backend dev | AI & ML 
 
 I build dependable full-stack solutions for web and mobile applications, with a growing focus on scalable backend systems and intelligent software. I care about clean architecture, performance, maintainability, and solving real-world problems with technology.
@@ -36,20 +36,13 @@ I build dependable full-stack solutions for web and mobile applications, with a 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 
-## 📊 GitHub Stats
-<div align="center">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=suajay&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=suajay&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=suajay&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=suajay&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=f6f8fa&text_color=8b949e&icon_color=5865f2&hide=issues,stars,prs&cache_seconds=3600)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=suajay&theme=github-dark&hide_border=true&background=0d1117&stroke=1a1a1a&ring=5865f2&fire=5865f2&currStreakNum=f6f8fa&currStreakLabel=58a6ff&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&currStreakLabel=58a6ff)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suajay&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=f6f8fa&text_color=8b949e&hide=html,css&cache_seconds=3600)
-
-</div>
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=suajay&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
